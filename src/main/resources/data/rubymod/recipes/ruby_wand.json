@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [ "  R", " S ", "S  " ],
+  "key": { "R": { "item": "rubymod:ruby" }, "S": { "item": "minecraft:stick" } },
+  "result": { "item": "rubymod:ruby_wand" }
+}
